@@ -6,20 +6,10 @@
     <description>Recent content on Dublin Chess Club Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2020 11:25:42 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dublinchessclub.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://dublinchessclub.github.io/blog/my-first-post/</link>
-      <pubDate>Sun, 29 Mar 2020 11:25:42 +0100</pubDate>
-      
-      <guid>https://dublinchessclub.github.io/blog/my-first-post/</guid>
-      <description>add   
-add</description>
-    </item>
     
     <item>
       <title>Emoji Support</title>
@@ -28,6 +18,16 @@ add</description>
       
       <guid>https://dublinchessclub.github.io/blog/emoji-support/</guid>
       <description>add</description>
+    </item>
+    
+    <item>
+      <title>Emoji guyyuguy</title>
+      <link>https://dublinchessclub.github.io/blog/my-first-post/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dublinchessclub.github.io/blog/my-first-post/</guid>
+      <description>add   
+add</description>
     </item>
     
     <item>
