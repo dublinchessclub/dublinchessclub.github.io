@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dublinchessclub.github.io/faq/</loc>
+    <loc>https://dublinchessclub.github.io/leagues/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/leagues/armstrong/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/leagues/bodley/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/leagues/ennis/</loc>
     <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url>
   
