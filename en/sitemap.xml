@@ -3,13 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dublinchessclub.github.io/categories/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://dublinchessclub.github.io/blog/</loc>
+    <lastmod>2020-03-29T11:25:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dublinchessclub.github.io/blog/</loc>
+    <loc>https://dublinchessclub.github.io/</loc>
+    <lastmod>2020-03-29T11:25:42+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dublinchessclub.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://dublinchessclub.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://dublinchessclub.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dublinchessclub.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dublinchessclub.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://dublinchessclub.github.io/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://dublinchessclub.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://dublinchessclub.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dublinchessclub.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/blog/my-first-post/</loc>
+    <lastmod>2020-03-29T11:25:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/categories/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -62,57 +118,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dublinchessclub.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dublinchessclub.github.io/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dublinchessclub.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://dublinchessclub.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://dublinchessclub.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://dublinchessclub.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dublinchessclub.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://dublinchessclub.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://dublinchessclub.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://dublinchessclub.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dublinchessclub.github.io/"
                 />
   </url>
   
