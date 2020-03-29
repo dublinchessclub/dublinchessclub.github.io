@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dublin Chess Club Test Site</title>
-    <link>https://dublinchessclub.github.io/tags/</link>
-    <description>Recent content in Tags on Dublin Chess Club Test Site</description>
+    <title>Tags on Airspace | Creative Agency Hugo Template</title>
+    <link>https://examplesite.com/tags/</link>
+    <description>Recent content in Tags on Airspace | Creative Agency Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
     
-	<atom:link href="https://dublinchessclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>emoji</title>
-      <link>https://dublinchessclub.github.io/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dublinchessclub.github.io/tags/emoji/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
