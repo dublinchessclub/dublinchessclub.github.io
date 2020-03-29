@@ -55,6 +55,10 @@
   </url>
   
   <url>
+    <loc>https://dublinchessclub.github.io/service/</loc>
+  </url>
+  
+  <url>
     <loc>https://dublinchessclub.github.io/author/john-doe/</loc>
   </url>
   
@@ -92,10 +96,6 @@
   
   <url>
     <loc>https://dublinchessclub.github.io/project/rio-furniture-6/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dublinchessclub.github.io/service/</loc>
   </url>
   
 </urlset>
