@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dublin Chess Club Test Site</title>
+    <link>https://dublinchessclub.github.io/posts/</link>
+    <description>Recent content in Posts on Dublin Chess Club Test Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Oct 2018 17:02:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://dublinchessclub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A calamitous start to the season - 0/2 at the City of Dublin 2018</title>
+      <link>https://dublinchessclub.github.io/posts/2018cod/</link>
+      <pubDate>Wed, 17 Oct 2018 17:02:59 +0000</pubDate>
+      
+      <guid>https://dublinchessclub.github.io/posts/2018cod/</guid>
+      <description>The 2018 / 2019 ICU season kicked off at the City of Dublin weekender held in September. This season was one I approached with as much intent to perform well, as I had done in a while. This is because I will be taking a step back from playing relatively seriously, at the end of the season, for about a year to focus on the last year of my PhD.</description>
+    </item>
+    
+  </channel>
+</rss>
