@@ -179,6 +179,28 @@
   </url>
   
   <url>
+    <loc>https://dublinchessclub.github.io/blog/2018cod/</loc>
+    <lastmod>2018-10-17T17:02:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/posts/2018cod/</loc>
+    <lastmod>2018-10-17T17:02:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/posts/</loc>
+    <lastmod>2018-10-17T17:02:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/tags/chess/</loc>
+    <lastmod>2018-10-17T17:02:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dublinchessclub.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
