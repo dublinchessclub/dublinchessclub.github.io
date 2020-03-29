@@ -1,15 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dublinchessclub.github.io/categories/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dublinchessclub.github.io/blog/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dublinchessclub.github.io/categories/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://dublinchessclub.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://dublinchessclub.github.io/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://dublinchessclub.github.io/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dublinchessclub.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://dublinchessclub.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://dublinchessclub.github.io/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://dublinchessclub.github.io/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://dublinchessclub.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dublinchessclub.github.io/categories/"
+                />
   </url>
   
   <url>
     <loc>https://dublinchessclub.github.io/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -58,7 +117,7 @@
   </url>
   
   <url>
-    <loc>https://dublinchessclub.github.io/tags/emoji/</loc>
+    <loc>https://dublinchessclub.github.io/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,13 +127,9 @@
   </url>
   
   <url>
-    <loc>https://dublinchessclub.github.io/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dublinchessclub.github.io/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -123,6 +178,12 @@
   </url>
   
   <url>
+    <loc>https://dublinchessclub.github.io/tags/emoji/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dublinchessclub.github.io/blog/2018cod/</loc>
     <lastmod>2018-10-17T17:02:59+00:00</lastmod>
   </url>
@@ -133,67 +194,20 @@
   </url>
   
   <url>
-    <loc>https://dublinchessclub.github.io/tags/chess/</loc>
+    <loc>https://dublinchessclub.github.io/posts/</loc>
     <lastmod>2018-10-17T17:02:59+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://dublinchessclub.github.io/posts/</loc>
+    <loc>https://dublinchessclub.github.io/tags/chess/</loc>
     <lastmod>2018-10-17T17:02:59+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://dublinchessclub.github.io/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dublinchessclub.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://dublinchessclub.github.io/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://dublinchessclub.github.io/pl/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://dublinchessclub.github.io/pt/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://dublinchessclub.github.io/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://dublinchessclub.github.io/es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://dublinchessclub.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://dublinchessclub.github.io/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://dublinchessclub.github.io/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dublinchessclub.github.io/categories/"
-                />
   </url>
   
 </urlset>
