@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dublin Chess Club</title>
-    <link>https://dublinchessclub.github.io/</link>
-    <description>Recent content on Dublin Chess Club</description>
+    <title>Galleries on Dublin Chess Club</title>
+    <link>https://dublinchessclub.github.io/gallery/</link>
+    <description>Recent content in Galleries on Dublin Chess Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 23 Dec 2019 13:05:29 +0600</lastBuildDate><atom:link href="https://dublinchessclub.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A very clever endgame executed by a club member during a league match</title>
-      <link>https://dublinchessclub.github.io/blog/blog-post-1/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://dublinchessclub.github.io/blog/blog-post-1/</guid>
-      <description>Positions positions positions
- Positions positions positions</description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://dublinchessclub.github.io/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dublinchessclub.github.io/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://dublinchessclub.github.io/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dublinchessclub.github.io/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
-    </item>
-    
+    <copyright>Copyright &amp;copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved</copyright><atom:link href="https://dublinchessclub.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rio Furniture</title>
       <link>https://dublinchessclub.github.io/gallery/rio-furniture-1/</link>
